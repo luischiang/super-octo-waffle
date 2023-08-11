@@ -1,0 +1,5 @@
+Handwritten Recognition - HWR
+
+1. Dewarp Images
+2. Image Layout
+3. Image Recognition
